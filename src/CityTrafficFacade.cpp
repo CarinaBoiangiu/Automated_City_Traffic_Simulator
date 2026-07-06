@@ -1,5 +1,5 @@
 #include "../include/CityTrafficFacede.h"
-#include "CentralDispatchLogger.h"
+#include "../include/CentralDispatchLogger.h"
 #include <iostream>
 
 CityTrafficFacade::CityTrafficFacade() : isSimulationRunning(false) {
